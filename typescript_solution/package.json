@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-simple",
+  "version": "1.0.0",
+  "description": "just study",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "tsc --watch",
+    "run": "tsc && node dest/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberGoat9152/simple-blockchain.git"
+  },
+  "author": "cybergoat9152",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyberGoat9152/simple-blockchain/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/CyberGoat9152/simple-blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "typescript": "^5.6.3"
+  }
+}
